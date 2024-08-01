@@ -1,0 +1,50 @@
+
+body {
+    margin: 0px;
+}
+
+.bg-container {
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bulb-image {
+    width: 130px;
+    margin-bottom: -20px;
+}
+
+.cat-image {
+    width: 180px;
+    margin-bottom: 20px;
+}
+
+.switch-board {
+    background-color: #7b8794;
+    display: inline-block;
+    padding: 0px 10px 10px;
+    border-radius: 8px;
+}
+
+.switch-status {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+
+.button {
+    background-color: #e12d39;
+    color: white;
+    padding: 5px;
+    width: 80px;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+
+.button-2 {
+    background-color: #cbd2d9;
+}
